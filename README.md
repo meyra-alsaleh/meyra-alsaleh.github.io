@@ -4,8 +4,8 @@ TLDR
 
 ### Work Experience
 TLDR
-   -PROJECT 1
-   -project 2
+   - PROJECT 1
+   - project 2
 
 ### Projects
 TLDR
